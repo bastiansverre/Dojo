@@ -26,7 +26,7 @@ void setup() {
   ellipse(width/2, height/2, width, height);
 }
 ```
-Maar nu past de ovaal nog steeds als we de getallin in `size` veranderen!
+Maar nu past de ovaal nog steeds als we de getallen in `size` veranderen!
 
 ![ovaal](ellipse0.png)![ovaal](ellipse1.png)![ovaal](ellipse2.png)![ovaal](ellipse3.png)![ovaal](ellipse4.png)![ovaal](ellipse5.png)![ovaal](ellipse6.png)![ovaal](ellipse7.png)![ovaal](ellipse8.png)![ovaal](ellipse9.png)
 
